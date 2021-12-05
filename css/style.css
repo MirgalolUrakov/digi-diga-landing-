@@ -1,0 +1,61 @@
+header{
+display: flex;
+flex-direction: row;
+padding: 25px;
+justify-content: space-between;
+align-items: center;
+font: Nunito;
+margin-left: 66px;
+
+}
+
+ul{
+	list-style-type: none;
+	margin:0px;
+	padding: 0px;
+	margin-right: 120px;
+	color: darkgrey;
+}
+
+body{
+	padding: 0px;
+	margin: 0;
+	font-family: Varela Round; 
+	
+}
+li{
+ display: inline;
+ margin-left: 50px;
+ 
+ 
+}
+nav{
+ margin-left: 30rem;
+}
+.bunner-title{
+	float: left;
+	padding: 6rem;
+}
+.bunner-image{
+	float:right:
+}
+button{
+	height: 85px;
+	width: 492px;
+	left: 247px;
+	top: 618px;
+	border: 0px;
+	background: rgba(165, 65, 15, 1);
+	color: white;
+}
+.main{
+	color:  rgba(115, 31, 7, 1);
+    font-weight: bold;
+}
+.line{
+ padding-left: 70px;
+ padding-bottom: 5px;
+}
+.text{
+	color:darkgrey;
+}
